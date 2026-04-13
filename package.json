@@ -1,0 +1,47 @@
+{
+  "name": "hospital-queue-management",
+  "version": "1.0.0",
+  "description": "A comprehensive MERN stack application for digital hospital queue management with real-time updates and analytics",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "test": "cd backend && npm test",
+    "seed": "cd backend && node seed-departments.js && node seed-staff.js"
+  },
+  "keywords": [
+    "hospital",
+    "queue",
+    "management",
+    "healthcare",
+    "mern",
+    "react",
+    "nodejs",
+    "mongodb",
+    "real-time",
+    "analytics"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/02AbhishekJP/hospital_queue_management.git"
+  },
+  "bugs": {
+    "url": "https://github.com/02AbhishekJP/hospital_queue_management/issues"
+  },
+  "homepage": "https://github.com/02AbhishekJP/hospital_queue_management#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
