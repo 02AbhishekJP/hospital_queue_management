@@ -776,24 +776,24 @@ Response: File download
 
 ### Patient Interface
 
-#### Registration Page
-![Registration](https://via.placeholder.com/800x400/028090/FFFFFF?text=Registration+Page)
+#### Login Dashboard
+![Login Dashboard](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/login_dashboard.png)
 *Clean registration form with validation*
 
 #### Patient Dashboard
-![Patient Dashboard](https://via.placeholder.com/800x400/028090/FFFFFF?text=Patient+Dashboard)
+![Patient Dashboard](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/user%20home%20page.png)
 *Quick actions: Book Appointment, Join Queue, Check Status, History, Settings*
 
 #### Join Queue
-![Join Queue](https://via.placeholder.com/800x400/10b981/FFFFFF?text=Join+Queue+Page)
+![Join Queue](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/user%20joining%20queue%20page.png)
 *Select department and priority level*
 
 #### Queue Status
-![Queue Status](https://via.placeholder.com/800x400/f59e0b/FFFFFF?text=Queue+Status)
+![Queue Status](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/queue%20status%20page.png)
 *Real-time position tracking with auto-refresh*
 
 #### Treatment History
-![Treatment History](https://via.placeholder.com/800x400/8b5cf6/FFFFFF?text=Treatment+History)
+![Treatment History](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/user%20treatment%20history.png)
 *Past consultations with document upload/download*
 
 ---
@@ -801,11 +801,11 @@ Response: File download
 ### Staff Interface
 
 #### Staff Dashboard
-![Staff Dashboard](https://via.placeholder.com/800x400/6366f1/FFFFFF?text=Staff+Dashboard)
+![Staff Dashboard](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/staff%20dashboard%20page.png)
 *Queue management with call next patient feature*
 
 #### Analytics Dashboard
-![Analytics Dashboard](https://via.placeholder.com/800x400/8b5cf6/FFFFFF?text=Analytics+Dashboard)
+![Analytics Dashboard](https://github.com/02AbhishekJP/hospital_queue_management/blob/main/images/Analytics%20dashboard%20page%20at%20staff.png)
 *6 interactive charts with real-time data*
 
 ---
